@@ -1,4 +1,9 @@
-## Hi there 👋
+<a href="https://ghfind.com/u/kaichao-zheng?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/kaichao-zheng?theme=dark" />
+    <img src="https://ghfind.com/api/card/mini/kaichao-zheng?theme=light" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
 
 <!--
 **Kaichao-Zheng/Kaichao-Zheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
